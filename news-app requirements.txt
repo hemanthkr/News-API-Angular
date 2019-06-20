@@ -1,0 +1,7 @@
+#GIT
+git config --global user.name "------------"
+git config --global user.email "-------------"
+git config --global http.sslVerify false
+git clone ----------------------
+
+Key - 0714e1f4a971488dbfb655cb85a7ad3b
