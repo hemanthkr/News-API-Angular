@@ -1,0 +1,7 @@
+https://github.com/geeksamu/angular-5-article-series
+
+
+https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/
+
+
+https://medium.com/@geeksamu/building-news-app-using-angular-5-99a9e5fb4669
